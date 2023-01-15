@@ -8,6 +8,7 @@ namespace SWPS_GIT_Flow
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Line added from Pawels branch");
+            Console.WriteLine("Line added from develop branch");
         }
     }
 }
