@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/SWPS_GIT_Flow.csproj": {}
+  },
+  "projects": {
+    "/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/SWPS_GIT_Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/SWPS_GIT_Flow.csproj",
+        "projectName": "SWPS_GIT_Flow",
+        "projectPath": "/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/SWPS_GIT_Flow.csproj",
+        "packagesPath": "/Users/fiderekp/.nuget/packages/",
+        "outputPath": "/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/fiderekp/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
