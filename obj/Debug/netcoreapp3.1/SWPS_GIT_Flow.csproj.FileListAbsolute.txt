@@ -1,0 +1,12 @@
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/bin/Debug/netcoreapp3.1/SWPS_GIT_Flow.deps.json
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/bin/Debug/netcoreapp3.1/SWPS_GIT_Flow.runtimeconfig.json
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/bin/Debug/netcoreapp3.1/SWPS_GIT_Flow.runtimeconfig.dev.json
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/bin/Debug/netcoreapp3.1/SWPS_GIT_Flow.dll
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/bin/Debug/netcoreapp3.1/SWPS_GIT_Flow.pdb
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.csprojAssemblyReference.cache
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.AssemblyInfoInputs.cache
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.AssemblyInfo.cs
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.csproj.CoreCompileInputs.cache
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.dll
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.pdb
+/Users/fiderekp/Documents/GitHub/SWPS_GIT_Flow/obj/Debug/netcoreapp3.1/SWPS_GIT_Flow.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SWPS_GIT_Flow/1.0.0": {
+        "runtime": {
+          "SWPS_GIT_Flow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SWPS_GIT_Flow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
